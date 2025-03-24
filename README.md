@@ -1,3 +1,5 @@
+Ejercicio final del curso Iniciación a la programación: Python Enero-Marzo 2025 de IBM
+
 La siguiente práctica simula una tarea que nuestro jefe de proyecto nos ha
 encargado. Se debe seguir al pie de la letra las exigencias del enunciado.
 Enunciado de la práctica
